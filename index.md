@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome
 
 توانایی دسترسی آفلاین به وب‌سایت‌ها و وب‌اپ‌ها
 
