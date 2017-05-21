@@ -1,9 +1,11 @@
-body {
+h2 {
   direction: rtl;
   text-align: right;
   font-family: 'Open Sans',serif;
 }
 
-title {
-  text-align: center;
+p {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Open Sans',serif;
 }
