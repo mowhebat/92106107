@@ -1,7 +1,8 @@
-h2 {
+div {
   direction: rtl;
   text-align: right;
   font-family: 'Open Sans',serif;
+  font-size: 120%;
 }
 
 p {
