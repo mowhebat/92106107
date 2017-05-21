@@ -3,7 +3,7 @@
   src: url('Far_Nazanin.ttf');
 }
 
-div {
+span {
   direction: rtl;
   text-align: right;
   font-family: 'BNazanin';
