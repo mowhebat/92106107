@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mowhebat/92106107/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+توانایی دسترسی آفلاین به وب‌سایت‌ها و وب‌اپ‌ها
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+امکان دسترسی آفلاین به سایت‌ها و اپ‌ها، یک خصوصیت است؛ برای مثال این خصوصیت در دستگاه‌های موبایل FormAgent در حالت آفلاین اجازه‌ی استفاده را به ما می‌دهد و هنگام دسترسی به اینترنت داده‌ها را همگام می‌کند. عموما در اکثر اپ‌ها و سایت‌ها، فعالیت عمده بر توسط سرور صورت می‌گیرد؛ پایگاه داده‌ در سرور قرار دارد و تغییر و نمایش داده‌ها نیز توسط سرور صورت می‌گیرد. برای افزایش توانایی دسترسی به آن‌ها به صورت آفلاین، بایستی فعالیت سرور را تا حد امکان به کلاینت منتقل کرد.
 
 ### Markdown
 
