@@ -1,14 +1,18 @@
+@font-face {
+  font-family: 'BNazanin';
+  src: url('Far_Nazanin.ttf');
+}
 
 div {
   direction: rtl;
   text-align: right;
-  font-family: 'Open Sans',serif;
+  font-family: 'BNazanin';
   font-size: 120%;
 }
 
 p {
   direction: rtl;
   text-align: right;
-  font-family: 'Open Sans',serif;
+  font-family: 'BNazanin';
   font-size: 80%;
 }
